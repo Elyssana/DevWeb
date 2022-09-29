@@ -1,4 +1,4 @@
-# Registro de depesas
+# Registro de despesas
 
 ------
 
